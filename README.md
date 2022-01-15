@@ -1,4 +1,4 @@
-# ChemistryFactory
+# Chemical Factory App
 This project was created Unity for BrainSTEM Alliance. This game translates chemical manufacturing procedures of everyday objects into a puzzle match-making game that is comprehensible for elementary learners. Here are some snippets of the game in action: 
 
 ![image](https://user-images.githubusercontent.com/58372785/149616725-60731b3f-b383-4d83-a2f2-102265fcc069.png)
